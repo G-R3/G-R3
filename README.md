@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gerardo
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning TypeScript, Next.js
+- 👀 I’m interested in web development and skateboarding 😎
+- 🌱 I’m currently learning TypeScript and Next.js
 - 💞️ I’m looking to collaborate on anything plzzzz
 
 <!---
